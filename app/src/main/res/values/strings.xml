@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Anwani</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="tab_text_1">Create</string>
+    <string name="tab_text_2">View</string>
+    <string name="tab_text_3">Account</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_logout">Logout</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
